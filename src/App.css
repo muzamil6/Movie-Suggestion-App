@@ -1,0 +1,6 @@
+@media (min-width: 786px) and (max-width: 1023px) {
+    .custom-mx {
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+  }
